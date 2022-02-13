@@ -6,7 +6,6 @@
 	Structure: Take in number, print the number in both hex and binary
 
 	Notes: The program is run on the cli, you say, hexAndBinary <integer>,
-				 does not process numbers above 256
 
 */
 #include <stdio.h>
